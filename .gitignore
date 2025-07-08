@@ -1,3 +1,5 @@
-   # Ignorar un archivo específico
+# Ignorar un archivo específico
 with open('.gitignore', 'a') as f:
     f.write('\n.env\n')
+# Ignorar un archivo específico
+.env
